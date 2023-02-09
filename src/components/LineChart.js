@@ -10,7 +10,6 @@ function LineChart({ chartData, chartData2 }) {
                 min: 0
             }
         }
-
     };
 
 
